@@ -1,0 +1,39 @@
+header {
+	background-color: white;
+	height: 80px;
+}
+
+#containerBox {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#Portfolio {
+	padding-left: 5%;
+	padding-right: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-bottom: solid #cccccc 2px;
+}
+
+img {
+	width: 150px;
+}
+
+#Hangman {
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
+}
+
+.Broken_Ankle {
+    transform: rotate(180deg)
+}
+
+@media screen and (max-width: 980px) {
+    html {
+        overflow-x: scroll;
+        overflow: hidden;
+    }
+}

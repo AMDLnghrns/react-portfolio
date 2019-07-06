@@ -1,0 +1,17 @@
+header {
+	background-color: white;
+	height: 80px;
+}
+
+#containerBox {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#Contact {
+	padding-left: 5%;
+	padding-right: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-bottom: solid #cccccc 2px;
+}

@@ -1,0 +1,28 @@
+header {
+	background-color: white;
+	height: 80px;
+}
+
+/* body {
+    background-image: url(./);
+} */
+
+#containerBox {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#About_Me {
+
+	padding-left: 5%;
+	padding-right: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-bottom: solid #cccccc 2px;
+}
+
+.Anthony_Portrait {
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}

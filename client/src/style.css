@@ -1,0 +1,215 @@
+/* #Name {
+    float: left;
+    padding: 10px;
+    width: 300px;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #4aaaa5;
+    border-bottom: solid #cccccc 2px;
+} */
+
+/* #Blank {
+    float: left;
+    padding: 43.4065px;
+    width: 10px;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
+} */
+
+/* #About {
+    float: left;
+    padding: 33.91px;
+    width: 136.57px;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
+} */
+
+/* #Portfolio {
+    float: left;
+    padding: 33.91px;
+    width: 100px;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
+} */
+
+/* #Contact {
+    float: left;
+    padding: 33.91px;
+    width: 100px;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
+} */
+
+body {
+    clear: both;
+    overflow: auto;
+    width: 960px;
+    margin: auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    /* background-image: url(./images/white-waves.png); */
+    background-color: #ffffff;
+    
+}
+
+#About_Me {
+    padding: 0px;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
+}
+
+#Contact_header {
+    padding: 0px;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
+}
+
+#Portfolio_header {
+    padding: 0px;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
+}
+
+.container {
+    background-color:#ffffff;
+    border: solid #dddddd 2px;
+    padding: 20px;
+    height: 500px;
+}
+
+.Anthony_Portrait {
+    float: left;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+#submit {
+    background-color: #4aaaa5;
+    width: 90px;
+    height: 33px;
+    border: none;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+footer {
+    clear: both;
+    overflow: auto;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    font-size: 12px;
+    color: #c0c0c0;
+    background-color: #666666;
+    margin-top: 10px;
+    text-align: center;
+    border-top: solid #4aaaa5 5px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+#Hangman {
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
+}
+
+.Climbing_low {
+    transform: rotate(90deg);
+}
+
+.Climbing_high {
+    transform: rotate(90deg);
+}
+
+.Broken_Ankle {
+    transform: rotate(90deg);
+}
+
+#RPG_Game {
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
+}
+
+#Trivia_Game {
+    clear: both;
+    overflow: auto;
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
+}
+
+#Rutgers_Info_Widget {
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
+}
+
+#Rock_Paper_Scissors {
+    clear: both;
+    overflow: auto;
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
+}
+
+.formField {
+    display: table;
+    clear: both;
+    width:800px;
+}
+
+#mail {
+    width:90%;
+}
+
+#name {
+    width:90%;
+}
+
+#msg {
+    width:90%;
+    height: 200px;
+}
+
+#containerBox {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
